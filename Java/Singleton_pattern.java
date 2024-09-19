@@ -15,7 +15,7 @@ class Singleton {
     }
 }
 
-public class HelloWorld {
+public class Singleton_pattern {
     public static void main(String[] args) {
         // Singleton 인스턴스를 가져옵니다.
         Singleton a = Singleton.getInstance();

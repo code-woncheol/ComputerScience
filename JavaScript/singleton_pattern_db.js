@@ -28,3 +28,4 @@ const b = new DB(URL)
 
 // 두 인스턴스가 동일한지 확인합니다. true가 출력됩니다.
 console.log(a === b) // true
+
